@@ -1,12 +1,10 @@
-# Bento: an offline, voice-first health companion for a Mars crew
+# Bento: offline health companion for a Mars crew
 
 **NASA Space Apps Challenge 2026: Create Health Monitoring Software for Astronauts on Space Missions**
 
 On the way to Mars, a radio message takes between about 3 and 22 minutes to reach Earth, and as long again for the reply. When something goes wrong, the crew has to act before the flight surgeon can answer.
 
 Bento runs entirely on the spacecraft's own computer, with no cloud and no link to Earth. Crew members talk to it hands-free. It watches their vital signs and the cabin, speaks first when something changes, and logs symptoms in their own words. It walks them through first-aid and NASA protocol cards.
-
-> Unlike HAL, Bento can't control anything, it always says why, and the crew decides.
 
 Demo video: `<https://www.youtube.com/watch?v=L4FFp79WOK4>` · Project page: `<https://github.com/Marco-2672/nasa-hackathon-2026>`
 
